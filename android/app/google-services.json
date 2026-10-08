@@ -1,0 +1,30 @@
+
+{
+  "project_info": {
+    "project_number": "476478915784",
+    "project_id": "retro-vibes-c52e7",
+    "storage_bucket": "retro-vibes-c52e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476478915784:android:ce152ad4847aa2970211fd",
+        "android_client_info": {
+          "package_name": "com.ktech.retro_vibes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1dBliRrDPpugEO4pEkKyXlCLmjK53KkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
